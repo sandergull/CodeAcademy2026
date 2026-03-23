@@ -1,9 +1,6 @@
 name: "CID"
 on:
   pull_request:
-    paths:
-      - "github/workflows.ci.yml"
-      - "1-DevOps/idempotweet/**"
   workflow_call:
 
 jobs:
