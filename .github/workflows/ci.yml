@@ -1,4 +1,4 @@
-name: "CID"
+name: "CI"
 on:
   pull_request:
   workflow_call:
